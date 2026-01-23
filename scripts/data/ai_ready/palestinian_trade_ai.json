@@ -1,0 +1,98 @@
+[
+  {
+    "id": "trade_000",
+    "product": "Olive Oil",
+    "category": "Food",
+    "export_value_usd": 5000000,
+    "import_value_usd": 7500000,
+    "main_markets": "USA,EU,Japan",
+    "year": 2023,
+    "growth_rate": 8.5,
+    "source": "Palestinian Central Bureau of Statistics",
+    "scraped_at": "2026-01-23T20:43:14.542941"
+  },
+  {
+    "id": "trade_001",
+    "product": "Dates",
+    "category": "Food",
+    "export_value_usd": 2000000,
+    "import_value_usd": 3000000,
+    "main_markets": "EU,GCC,Canada",
+    "year": 2023,
+    "growth_rate": 12.3,
+    "source": "Palestinian Central Bureau of Statistics",
+    "scraped_at": "2026-01-23T20:43:14.542949"
+  },
+  {
+    "id": "trade_002",
+    "product": "Textiles & Embroidery",
+    "category": "Manufacturing",
+    "export_value_usd": 1500000,
+    "import_value_usd": 2500000,
+    "main_markets": "EU,USA",
+    "year": 2023,
+    "growth_rate": 5.7,
+    "source": "Palestinian Central Bureau of Statistics",
+    "scraped_at": "2026-01-23T20:43:14.542952"
+  },
+  {
+    "id": "trade_003",
+    "product": "Handicrafts",
+    "category": "Crafts",
+    "export_value_usd": 800000,
+    "import_value_usd": 1200000,
+    "main_markets": "EU,USA,Japan",
+    "year": 2023,
+    "growth_rate": 15.2,
+    "source": "Palestinian Central Bureau of Statistics",
+    "scraped_at": "2026-01-23T20:43:14.542954"
+  },
+  {
+    "id": "trade_004",
+    "product": "Olive Oil Soap",
+    "category": "Cosmetics",
+    "export_value_usd": 600000,
+    "import_value_usd": 900000,
+    "main_markets": "EU,GCC",
+    "year": 2023,
+    "growth_rate": 9.8,
+    "source": "Palestinian Central Bureau of Statistics",
+    "scraped_at": "2026-01-23T20:43:14.542956"
+  },
+  {
+    "id": "trade_005",
+    "product": "Glassware",
+    "category": "Crafts",
+    "export_value_usd": 400000,
+    "import_value_usd": 700000,
+    "main_markets": "EU,USA",
+    "year": 2023,
+    "growth_rate": 6.4,
+    "source": "Palestinian Central Bureau of Statistics",
+    "scraped_at": "2026-01-23T20:43:14.542958"
+  },
+  {
+    "id": "trade_006",
+    "product": "Zaatar & Spices",
+    "category": "Food",
+    "export_value_usd": 300000,
+    "import_value_usd": 500000,
+    "main_markets": "GCC,USA",
+    "year": 2023,
+    "growth_rate": 10.1,
+    "source": "Palestinian Central Bureau of Statistics",
+    "scraped_at": "2026-01-23T20:43:14.542960"
+  },
+  {
+    "id": "trade_007",
+    "product": "Honey",
+    "category": "Food",
+    "export_value_usd": 250000,
+    "import_value_usd": 400000,
+    "main_markets": "EU,GCC",
+    "year": 2023,
+    "growth_rate": 7.3,
+    "source": "Palestinian Central Bureau of Statistics",
+    "scraped_at": "2026-01-23T20:43:14.542961"
+  }
+]

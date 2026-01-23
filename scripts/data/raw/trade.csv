@@ -1,0 +1,9 @@
+﻿id,product,category,export_value_usd,import_value_usd,main_markets,year,growth_rate,source,scraped_at
+trade_000,Olive Oil,Food,5000000,7500000,"USA,EU,Japan",2023,8.5,Palestinian Central Bureau of Statistics,2026-01-23T20:43:14.542941
+trade_001,Dates,Food,2000000,3000000,"EU,GCC,Canada",2023,12.3,Palestinian Central Bureau of Statistics,2026-01-23T20:43:14.542949
+trade_002,Textiles & Embroidery,Manufacturing,1500000,2500000,"EU,USA",2023,5.7,Palestinian Central Bureau of Statistics,2026-01-23T20:43:14.542952
+trade_003,Handicrafts,Crafts,800000,1200000,"EU,USA,Japan",2023,15.2,Palestinian Central Bureau of Statistics,2026-01-23T20:43:14.542954
+trade_004,Olive Oil Soap,Cosmetics,600000,900000,"EU,GCC",2023,9.8,Palestinian Central Bureau of Statistics,2026-01-23T20:43:14.542956
+trade_005,Glassware,Crafts,400000,700000,"EU,USA",2023,6.4,Palestinian Central Bureau of Statistics,2026-01-23T20:43:14.542958
+trade_006,Zaatar & Spices,Food,300000,500000,"GCC,USA",2023,10.1,Palestinian Central Bureau of Statistics,2026-01-23T20:43:14.542960
+trade_007,Honey,Food,250000,400000,"EU,GCC",2023,7.3,Palestinian Central Bureau of Statistics,2026-01-23T20:43:14.542961

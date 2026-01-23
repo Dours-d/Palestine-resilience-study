@@ -1,0 +1,171 @@
+{
+  "scan_summary": {
+    "total_scanned": 130,
+    "data_sources": [
+      {
+        "file": "bds.csv",
+        "records": 10,
+        "columns": [
+          "id",
+          "company",
+          "bds_status",
+          "category",
+          "notes",
+          "verification_date",
+          "source",
+          "scraped_at"
+        ],
+        "size_kb": 1
+      },
+      {
+        "file": "bds_data.csv",
+        "records": 15,
+        "columns": [
+          "id",
+          "company",
+          "bds_status",
+          "category",
+          "notes",
+          "source",
+          "last_updated",
+          "scraped_at"
+        ],
+        "size_kb": 2
+      },
+      {
+        "file": "businesses.csv",
+        "records": 14,
+        "columns": [
+          "id",
+          "name",
+          "arabic_name",
+          "location",
+          "category",
+          "description",
+          "products",
+          "website",
+          "contact",
+          "tags",
+          "source",
+          "scraped_at",
+          "data_quality"
+        ],
+        "size_kb": 4
+      },
+      {
+        "file": "palestinian_businesses.csv",
+        "records": 14,
+        "columns": [
+          "id",
+          "name",
+          "arabic_name",
+          "location",
+          "category",
+          "description",
+          "products",
+          "website",
+          "contact",
+          "tags",
+          "source",
+          "scraped_at",
+          "data_quality"
+        ],
+        "size_kb": 4
+      },
+      {
+        "file": "palestinian_products.csv",
+        "records": 27,
+        "columns": [
+          "id",
+          "title",
+          "english_title",
+          "price",
+          "price_usd",
+          "seller",
+          "platform",
+          "category",
+          "location",
+          "description",
+          "scraped_at",
+          "data_quality",
+          "bds_compliant",
+          "authenticity_score"
+        ],
+        "size_kb": 4
+      },
+      {
+        "file": "products.csv",
+        "records": 27,
+        "columns": [
+          "id",
+          "title",
+          "english_title",
+          "price",
+          "price_usd",
+          "seller",
+          "platform",
+          "category",
+          "location",
+          "description",
+          "scraped_at",
+          "data_quality",
+          "bds_compliant",
+          "authenticity_score"
+        ],
+        "size_kb": 4
+      },
+      {
+        "file": "social_mentions.csv",
+        "records": 10,
+        "columns": [
+          "id",
+          "platform",
+          "content",
+          "business_name",
+          "location",
+          "engagement",
+          "date",
+          "search_term",
+          "scraped_at"
+        ],
+        "size_kb": 1
+      },
+      {
+        "file": "trade.csv",
+        "records": 8,
+        "columns": [
+          "id",
+          "product",
+          "category",
+          "export_value_usd",
+          "import_value_usd",
+          "main_markets",
+          "year",
+          "growth_rate",
+          "source",
+          "scraped_at"
+        ],
+        "size_kb": 1
+      },
+      {
+        "file": "trade_data.csv",
+        "records": 5,
+        "columns": [
+          "id",
+          "product",
+          "category",
+          "export_value_usd",
+          "import_value_usd",
+          "main_markets",
+          "year",
+          "source",
+          "growth_rate",
+          "scraped_at"
+        ],
+        "size_kb": 0
+      }
+    ],
+    "file_sizes": {},
+    "generated_at": "2026-01-23T20:44:00.575546"
+  }
+}

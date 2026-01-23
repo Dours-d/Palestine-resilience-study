@@ -1,0 +1,102 @@
+[
+  {
+    "id": "bds_000",
+    "company": "Canaan Fair Trade",
+    "bds_status": "Compliant",
+    "category": "Food",
+    "notes": "100% settlement-free, fair trade certified",
+    "verification_date": "2024-01-15",
+    "source": "BDS National Committee",
+    "scraped_at": "2026-01-23T20:43:14.542966"
+  },
+  {
+    "id": "bds_001",
+    "company": "Holy Land Handicrafts",
+    "bds_status": "Compliant",
+    "category": "Crafts",
+    "notes": "Palestinian owned, traditional methods",
+    "verification_date": "2024-01-15",
+    "source": "BDS National Committee",
+    "scraped_at": "2026-01-23T20:43:14.542968"
+  },
+  {
+    "id": "bds_002",
+    "company": "Nablus Soap Factories",
+    "bds_status": "Compliant",
+    "category": "Cosmetics",
+    "notes": "Traditional Palestinian production",
+    "verification_date": "2024-01-15",
+    "source": "BDS National Committee",
+    "scraped_at": "2026-01-23T20:43:14.542970"
+  },
+  {
+    "id": "bds_003",
+    "company": "Hebron Glass Factory",
+    "bds_status": "Compliant",
+    "category": "Crafts",
+    "notes": "Family-owned for generations",
+    "verification_date": "2024-01-15",
+    "source": "BDS National Committee",
+    "scraped_at": "2026-01-23T20:43:14.542972"
+  },
+  {
+    "id": "bds_004",
+    "company": "Palestine Heritage Center",
+    "bds_status": "Compliant",
+    "category": "Textiles",
+    "notes": "Preserves Palestinian heritage",
+    "verification_date": "2024-01-15",
+    "source": "BDS National Committee",
+    "scraped_at": "2026-01-23T20:43:14.542974"
+  },
+  {
+    "id": "bds_005",
+    "company": "Sunbula Fair Trade",
+    "bds_status": "Compliant",
+    "category": "Crafts",
+    "notes": "Works with Palestinian artisans",
+    "verification_date": "2024-01-15",
+    "source": "BDS National Committee",
+    "scraped_at": "2026-01-23T20:43:14.542978"
+  },
+  {
+    "id": "bds_006",
+    "company": "Zaytoun CIC",
+    "bds_status": "Compliant",
+    "category": "Food",
+    "notes": "Ethical supply chain verified",
+    "verification_date": "2024-01-15",
+    "source": "BDS National Committee",
+    "scraped_at": "2026-01-23T20:43:14.542980"
+  },
+  {
+    "id": "bds_007",
+    "company": "Tent of Nations",
+    "bds_status": "Compliant",
+    "category": "Agriculture",
+    "notes": "Organic, sustainable farming",
+    "verification_date": "2024-01-15",
+    "source": "BDS National Committee",
+    "scraped_at": "2026-01-23T20:43:14.542982"
+  },
+  {
+    "id": "bds_008",
+    "company": "Al Reef Palestinian Grocery",
+    "bds_status": "Needs Review",
+    "category": "Retail",
+    "notes": "Mostly Palestinian products",
+    "verification_date": "2024-01-15",
+    "source": "BDS National Committee",
+    "scraped_at": "2026-01-23T20:43:14.542984"
+  },
+  {
+    "id": "bds_009",
+    "company": "Mixed Source Retailer",
+    "bds_status": "Non-Compliant",
+    "category": "Retail",
+    "notes": "Sells settlement products",
+    "verification_date": "2024-01-15",
+    "source": "BDS National Committee",
+    "scraped_at": "2026-01-23T20:43:14.542985"
+  }
+]

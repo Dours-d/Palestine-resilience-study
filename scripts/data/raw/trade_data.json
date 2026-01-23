@@ -1,0 +1,62 @@
+[
+  {
+    "id": "trade_un_comtrade_palestine_0",
+    "product": "Olive Oil",
+    "category": "Food",
+    "export_value_usd": 5000000,
+    "import_value_usd": 7500000,
+    "main_markets": "USA,EU,Japan",
+    "year": 2023,
+    "source": "UN Comtrade Palestine",
+    "growth_rate": 13.766598313674454,
+    "scraped_at": "2026-01-23T20:44:00.569783"
+  },
+  {
+    "id": "trade_un_comtrade_palestine_1",
+    "product": "Dates",
+    "category": "Food",
+    "export_value_usd": 2000000,
+    "import_value_usd": 3000000,
+    "main_markets": "EU,GCC,Canada",
+    "year": 2023,
+    "source": "UN Comtrade Palestine",
+    "growth_rate": 13.436288979906632,
+    "scraped_at": "2026-01-23T20:44:00.569797"
+  },
+  {
+    "id": "trade_un_comtrade_palestine_2",
+    "product": "Textiles",
+    "category": "Manufacturing",
+    "export_value_usd": 1500000,
+    "import_value_usd": 2500000,
+    "main_markets": "EU,USA",
+    "year": 2023,
+    "source": "UN Comtrade Palestine",
+    "growth_rate": 14.961809039790683,
+    "scraped_at": "2026-01-23T20:44:00.569801"
+  },
+  {
+    "id": "trade_un_comtrade_palestine_3",
+    "product": "Handicrafts",
+    "category": "Crafts",
+    "export_value_usd": 800000,
+    "import_value_usd": 1200000,
+    "main_markets": "EU,USA,Japan",
+    "year": 2023,
+    "source": "UN Comtrade Palestine",
+    "growth_rate": 9.418090317098953,
+    "scraped_at": "2026-01-23T20:44:00.569803"
+  },
+  {
+    "id": "trade_un_comtrade_palestine_4",
+    "product": "Soap",
+    "category": "Cosmetics",
+    "export_value_usd": 600000,
+    "import_value_usd": 900000,
+    "main_markets": "EU,GCC",
+    "year": 2023,
+    "source": "UN Comtrade Palestine",
+    "growth_rate": 11.650187318347609,
+    "scraped_at": "2026-01-23T20:44:00.569806"
+  }
+]

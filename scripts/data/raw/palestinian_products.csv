@@ -1,0 +1,28 @@
+﻿id,title,english_title,price,price_usd,seller,platform,category,location,description,scraped_at,data_quality,bds_compliant,authenticity_score
+mock_etsy_000,زيت زيتون بكر ممتاز من الخليل,Extra Virgin Olive Oil from Hebron,25.0 دينار,35.0,Bethlehem Souq,etsy,food,Hebron,Extra Virgin Olive Oil from Hebron - Authentic Palestinian product,2026-01-23T20:43:11.177114,mock,True,0.909830036535755
+mock_etsy_001,تمر مجدول فلسطيني طازج,Fresh Palestinian Medjoul Dates,15.0 دينار,21.0,Hebron Market,etsy,food,Jericho,Fresh Palestinian Medjoul Dates - Authentic Palestinian product,2026-01-23T20:43:11.177128,mock,True,0.8826814447473459
+mock_etsy_002,ثوب بيت لحم مطرز يدوياً,Hand-embroidered Bethlehem Dress,350.0 دينار,489.99999999999994,Bethlehem Souq,etsy,textiles,Bethlehem,Hand-embroidered Bethlehem Dress - Authentic Palestinian product,2026-01-23T20:43:11.177133,mock,True,0.857035720626742
+mock_etsy_003,صابون زيت الزيتون النابلسي,Nablus Olive Oil Soap,6.0 دينار,8.399999999999999,Bethlehem Souq,etsy,cosmetics,Nablus,Nablus Olive Oil Soap - Authentic Palestinian product,2026-01-23T20:43:11.177136,mock,True,0.9218268682253259
+mock_etsy_004,مصباح زجاج الخليل الملون,Colored Hebron Glass Lamp,65.0 دينار,91.0,Bethlehem Souq,etsy,crafts,Hebron,Colored Hebron Glass Lamp - Authentic Palestinian product,2026-01-23T20:43:11.177140,mock,True,0.935648881054356
+mock_etsy_005,زعتر فلسطيني مع سمسم,Palestinian Zaatar with Sesame,8.0 دينار,11.2,Bethlehem Souq,etsy,food,Ramallah,Palestinian Zaatar with Sesame - Authentic Palestinian product,2026-01-23T20:43:11.177143,mock,True,0.8103107722629157
+mock_etsy_006,عسل زهور البرتقال من غزة,Orange Blossom Honey from Gaza,35.0 دينار,49.0,Palestine Crafts,etsy,food,Gaza,Orange Blossom Honey from Gaza - Authentic Palestinian product,2026-01-23T20:43:11.177146,mock,True,0.8454029405317599
+mock_etsy_007,طبق فخاري بيت لحم مزخرف,Decorated Bethlehem Ceramic Plate,40.0 دينار,56.0,Traditional Arts,etsy,crafts,Bethlehem,Decorated Bethlehem Ceramic Plate - Authentic Palestinian product,2026-01-23T20:43:11.177149,mock,True,0.8649882160955912
+mock_etsy_008,منحوتة خشب زيتون من القدس,Olive Wood Carving from Jerusalem,85.0 دينار,118.99999999999999,Traditional Arts,etsy,crafts,Jerusalem,Olive Wood Carving from Jerusalem - Authentic Palestinian product,2026-01-23T20:43:11.177152,mock,True,0.9576955842178594
+mock_etsy_009,سجادة صلاة مطرزة من الخليل,Embroidered Prayer Rug from Hebron,120.0 دينار,168.0,Palestine Crafts,etsy,textiles,Hebron,Embroidered Prayer Rug from Hebron - Authentic Palestinian product,2026-01-23T20:43:11.177155,mock,True,0.8614248887111644
+opensooq_5fbe37b5,الأردن,,N/A,,OpenSooq Seller,OpenSooq,other,Palestine,,2026-01-23T20:43:13.536616,scraped,,
+opensooq_fefa5cc1,العراق,,N/A,,OpenSooq Seller,OpenSooq,other,Palestine,,2026-01-23T20:43:13.536733,scraped,,
+opensooq_79af5b4d,السعودية,,N/A,,OpenSooq Seller,OpenSooq,other,Palestine,,2026-01-23T20:43:13.536787,scraped,,
+opensooq_93bf0692,عُمان,,N/A,,OpenSooq Seller,OpenSooq,other,Palestine,,2026-01-23T20:43:13.536835,scraped,,
+opensooq_e4b24166,الكويت,,N/A,,OpenSooq Seller,OpenSooq,other,Palestine,,2026-01-23T20:43:13.536879,scraped,,
+opensooq_28622d65,الإمارات,,N/A,,OpenSooq Seller,OpenSooq,other,Palestine,,2026-01-23T20:43:13.536922,scraped,,
+opensooq_0601dfbc,البحرين,,N/A,,OpenSooq Seller,OpenSooq,other,Palestine,,2026-01-23T20:43:13.536964,scraped,,
+opensooq_e5f47967,ليبيا,,N/A,,OpenSooq Seller,OpenSooq,other,Palestine,,2026-01-23T20:43:13.537034,scraped,,
+opensooq_c1ec8f80,السودان,,N/A,,OpenSooq Seller,OpenSooq,other,Palestine,,2026-01-23T20:43:13.537102,scraped,,
+opensooq_fce202f3,فلسطين,,N/A,,OpenSooq Seller,OpenSooq,other,Palestine,,2026-01-23T20:43:13.537142,scraped,,
+opensooq_593e086e,اليمن,,N/A,,OpenSooq Seller,OpenSooq,other,Palestine,,2026-01-23T20:43:13.537182,scraped,,
+opensooq_4575784f,تركيا,,N/A,,OpenSooq Seller,OpenSooq,other,Palestine,,2026-01-23T20:43:13.537222,scraped,,
+opensooq_bdba9610,لبنان,,N/A,,OpenSooq Seller,OpenSooq,other,Palestine,,2026-01-23T20:43:13.537261,scraped,,
+opensooq_792db40d,الجزائر,,N/A,,OpenSooq Seller,OpenSooq,other,Palestine,,2026-01-23T20:43:13.537302,scraped,,
+opensooq_0e5d7cf5,المغرب,,N/A,,OpenSooq Seller,OpenSooq,other,Palestine,,2026-01-23T20:43:13.537344,scraped,,
+opensooq_82892ded,تونس,,N/A,,OpenSooq Seller,OpenSooq,other,Palestine,,2026-01-23T20:43:13.537383,scraped,,
+opensooq_33031f18,سوريا,,N/A,,OpenSooq Seller,OpenSooq,other,Palestine,,2026-01-23T20:43:13.537422,scraped,,

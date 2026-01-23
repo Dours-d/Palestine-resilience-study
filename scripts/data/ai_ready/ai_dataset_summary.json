@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-01-23T20:51:28.432094",
+  "datasets": {
+    "businesses": 14,
+    "products": 27,
+    "trade": 8,
+    "bds": 10
+  },
+  "total_records": 59,
+  "ai_files": [
+    "palestinian_businesses_ai.json",
+    "palestinian_products_ai.json",
+    "palestinian_trade_ai.json",
+    "palestinian_bds_ai.json"
+  ]
+}

@@ -1,0 +1,11 @@
+﻿id,company,bds_status,category,notes,verification_date,source,scraped_at
+bds_000,Canaan Fair Trade,Compliant,Food,"100% settlement-free, fair trade certified",2024-01-15,BDS National Committee,2026-01-23T20:43:14.542966
+bds_001,Holy Land Handicrafts,Compliant,Crafts,"Palestinian owned, traditional methods",2024-01-15,BDS National Committee,2026-01-23T20:43:14.542968
+bds_002,Nablus Soap Factories,Compliant,Cosmetics,Traditional Palestinian production,2024-01-15,BDS National Committee,2026-01-23T20:43:14.542970
+bds_003,Hebron Glass Factory,Compliant,Crafts,Family-owned for generations,2024-01-15,BDS National Committee,2026-01-23T20:43:14.542972
+bds_004,Palestine Heritage Center,Compliant,Textiles,Preserves Palestinian heritage,2024-01-15,BDS National Committee,2026-01-23T20:43:14.542974
+bds_005,Sunbula Fair Trade,Compliant,Crafts,Works with Palestinian artisans,2024-01-15,BDS National Committee,2026-01-23T20:43:14.542978
+bds_006,Zaytoun CIC,Compliant,Food,Ethical supply chain verified,2024-01-15,BDS National Committee,2026-01-23T20:43:14.542980
+bds_007,Tent of Nations,Compliant,Agriculture,"Organic, sustainable farming",2024-01-15,BDS National Committee,2026-01-23T20:43:14.542982
+bds_008,Al Reef Palestinian Grocery,Needs Review,Retail,Mostly Palestinian products,2024-01-15,BDS National Committee,2026-01-23T20:43:14.542984
+bds_009,Mixed Source Retailer,Non-Compliant,Retail,Sells settlement products,2024-01-15,BDS National Committee,2026-01-23T20:43:14.542985

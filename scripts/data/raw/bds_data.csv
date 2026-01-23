@@ -1,0 +1,16 @@
+﻿id,company,bds_status,category,notes,source,last_updated,scraped_at
+bds_bds_national_committee_0,Canaan Fair Trade,Compliant,Food,All products settlement-free,BDS National Committee,2026-01-23,2026-01-23T20:44:00.572870
+bds_bds_national_committee_1,Hebron Glass Factory,Compliant,Crafts,100% Palestinian owned,BDS National Committee,2026-01-23,2026-01-23T20:44:00.572881
+bds_bds_national_committee_2,Nablus Soap Co.,Compliant,Cosmetics,Traditional Palestinian production,BDS National Committee,2026-01-23,2026-01-23T20:44:00.572888
+bds_bds_national_committee_3,Mixed Source Co.,Needs Review,Various,Some components from settlements,BDS National Committee,2026-01-23,2026-01-23T20:44:00.572894
+bds_bds_national_committee_4,International Brand,Non-Compliant,Retail,Operates in settlements,BDS National Committee,2026-01-23,2026-01-23T20:44:00.572903
+bds_whoprofits_research_center_0,Canaan Fair Trade,Compliant,Food,All products settlement-free,WhoProfits Research Center,2026-01-23,2026-01-23T20:44:00.573043
+bds_whoprofits_research_center_1,Hebron Glass Factory,Compliant,Crafts,100% Palestinian owned,WhoProfits Research Center,2026-01-23,2026-01-23T20:44:00.573051
+bds_whoprofits_research_center_2,Nablus Soap Co.,Compliant,Cosmetics,Traditional Palestinian production,WhoProfits Research Center,2026-01-23,2026-01-23T20:44:00.573056
+bds_whoprofits_research_center_3,Mixed Source Co.,Needs Review,Various,Some components from settlements,WhoProfits Research Center,2026-01-23,2026-01-23T20:44:00.573062
+bds_whoprofits_research_center_4,International Brand,Non-Compliant,Retail,Operates in settlements,WhoProfits Research Center,2026-01-23,2026-01-23T20:44:00.573067
+bds_un_database_of_settlement_goods_0,Canaan Fair Trade,Compliant,Food,All products settlement-free,UN Database of Settlement Goods,2026-01-23,2026-01-23T20:44:00.573128
+bds_un_database_of_settlement_goods_1,Hebron Glass Factory,Compliant,Crafts,100% Palestinian owned,UN Database of Settlement Goods,2026-01-23,2026-01-23T20:44:00.573135
+bds_un_database_of_settlement_goods_2,Nablus Soap Co.,Compliant,Cosmetics,Traditional Palestinian production,UN Database of Settlement Goods,2026-01-23,2026-01-23T20:44:00.573141
+bds_un_database_of_settlement_goods_3,Mixed Source Co.,Needs Review,Various,Some components from settlements,UN Database of Settlement Goods,2026-01-23,2026-01-23T20:44:00.573146
+bds_un_database_of_settlement_goods_4,International Brand,Non-Compliant,Retail,Operates in settlements,UN Database of Settlement Goods,2026-01-23,2026-01-23T20:44:00.573151

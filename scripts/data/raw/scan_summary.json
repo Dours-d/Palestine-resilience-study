@@ -1,0 +1,36 @@
+{
+  "scan_id": "20260123_2043",
+  "scan_time": "2026-01-23T20:44:00.668253",
+  "data_collected": {
+    "businesses": 0,
+    "products": 0,
+    "social_mentions": 10,
+    "trade_records": 5,
+    "bds_records": 15,
+    "total": 30
+  },
+  "raw_files": [
+    "bds.csv",
+    "bds_data.csv",
+    "bds_data.json",
+    "businesses.csv",
+    "complete_market_data.json",
+    "palestinian_businesses.csv",
+    "palestinian_businesses.json",
+    "palestinian_products.csv",
+    "palestinian_products.json",
+    "products.csv",
+    "scan_report.json",
+    "scan_summary.json",
+    "social_mentions.csv",
+    "social_mentions.json",
+    "trade.csv",
+    "trade_data.csv",
+    "trade_data.json"
+  ],
+  "next_steps": [
+    "1. Process raw data using generate-ai-edible-data.py",
+    "2. Import processed data into Palestine Market Scanner",
+    "3. Update dashboard with new data"
+  ]
+}

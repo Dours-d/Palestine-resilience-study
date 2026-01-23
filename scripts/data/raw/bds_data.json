@@ -1,0 +1,152 @@
+[
+  {
+    "id": "bds_bds_national_committee_0",
+    "company": "Canaan Fair Trade",
+    "bds_status": "Compliant",
+    "category": "Food",
+    "notes": "All products settlement-free",
+    "source": "BDS National Committee",
+    "last_updated": "2026-01-23",
+    "scraped_at": "2026-01-23T20:44:00.572870"
+  },
+  {
+    "id": "bds_bds_national_committee_1",
+    "company": "Hebron Glass Factory",
+    "bds_status": "Compliant",
+    "category": "Crafts",
+    "notes": "100% Palestinian owned",
+    "source": "BDS National Committee",
+    "last_updated": "2026-01-23",
+    "scraped_at": "2026-01-23T20:44:00.572881"
+  },
+  {
+    "id": "bds_bds_national_committee_2",
+    "company": "Nablus Soap Co.",
+    "bds_status": "Compliant",
+    "category": "Cosmetics",
+    "notes": "Traditional Palestinian production",
+    "source": "BDS National Committee",
+    "last_updated": "2026-01-23",
+    "scraped_at": "2026-01-23T20:44:00.572888"
+  },
+  {
+    "id": "bds_bds_national_committee_3",
+    "company": "Mixed Source Co.",
+    "bds_status": "Needs Review",
+    "category": "Various",
+    "notes": "Some components from settlements",
+    "source": "BDS National Committee",
+    "last_updated": "2026-01-23",
+    "scraped_at": "2026-01-23T20:44:00.572894"
+  },
+  {
+    "id": "bds_bds_national_committee_4",
+    "company": "International Brand",
+    "bds_status": "Non-Compliant",
+    "category": "Retail",
+    "notes": "Operates in settlements",
+    "source": "BDS National Committee",
+    "last_updated": "2026-01-23",
+    "scraped_at": "2026-01-23T20:44:00.572903"
+  },
+  {
+    "id": "bds_whoprofits_research_center_0",
+    "company": "Canaan Fair Trade",
+    "bds_status": "Compliant",
+    "category": "Food",
+    "notes": "All products settlement-free",
+    "source": "WhoProfits Research Center",
+    "last_updated": "2026-01-23",
+    "scraped_at": "2026-01-23T20:44:00.573043"
+  },
+  {
+    "id": "bds_whoprofits_research_center_1",
+    "company": "Hebron Glass Factory",
+    "bds_status": "Compliant",
+    "category": "Crafts",
+    "notes": "100% Palestinian owned",
+    "source": "WhoProfits Research Center",
+    "last_updated": "2026-01-23",
+    "scraped_at": "2026-01-23T20:44:00.573051"
+  },
+  {
+    "id": "bds_whoprofits_research_center_2",
+    "company": "Nablus Soap Co.",
+    "bds_status": "Compliant",
+    "category": "Cosmetics",
+    "notes": "Traditional Palestinian production",
+    "source": "WhoProfits Research Center",
+    "last_updated": "2026-01-23",
+    "scraped_at": "2026-01-23T20:44:00.573056"
+  },
+  {
+    "id": "bds_whoprofits_research_center_3",
+    "company": "Mixed Source Co.",
+    "bds_status": "Needs Review",
+    "category": "Various",
+    "notes": "Some components from settlements",
+    "source": "WhoProfits Research Center",
+    "last_updated": "2026-01-23",
+    "scraped_at": "2026-01-23T20:44:00.573062"
+  },
+  {
+    "id": "bds_whoprofits_research_center_4",
+    "company": "International Brand",
+    "bds_status": "Non-Compliant",
+    "category": "Retail",
+    "notes": "Operates in settlements",
+    "source": "WhoProfits Research Center",
+    "last_updated": "2026-01-23",
+    "scraped_at": "2026-01-23T20:44:00.573067"
+  },
+  {
+    "id": "bds_un_database_of_settlement_goods_0",
+    "company": "Canaan Fair Trade",
+    "bds_status": "Compliant",
+    "category": "Food",
+    "notes": "All products settlement-free",
+    "source": "UN Database of Settlement Goods",
+    "last_updated": "2026-01-23",
+    "scraped_at": "2026-01-23T20:44:00.573128"
+  },
+  {
+    "id": "bds_un_database_of_settlement_goods_1",
+    "company": "Hebron Glass Factory",
+    "bds_status": "Compliant",
+    "category": "Crafts",
+    "notes": "100% Palestinian owned",
+    "source": "UN Database of Settlement Goods",
+    "last_updated": "2026-01-23",
+    "scraped_at": "2026-01-23T20:44:00.573135"
+  },
+  {
+    "id": "bds_un_database_of_settlement_goods_2",
+    "company": "Nablus Soap Co.",
+    "bds_status": "Compliant",
+    "category": "Cosmetics",
+    "notes": "Traditional Palestinian production",
+    "source": "UN Database of Settlement Goods",
+    "last_updated": "2026-01-23",
+    "scraped_at": "2026-01-23T20:44:00.573141"
+  },
+  {
+    "id": "bds_un_database_of_settlement_goods_3",
+    "company": "Mixed Source Co.",
+    "bds_status": "Needs Review",
+    "category": "Various",
+    "notes": "Some components from settlements",
+    "source": "UN Database of Settlement Goods",
+    "last_updated": "2026-01-23",
+    "scraped_at": "2026-01-23T20:44:00.573146"
+  },
+  {
+    "id": "bds_un_database_of_settlement_goods_4",
+    "company": "International Brand",
+    "bds_status": "Non-Compliant",
+    "category": "Retail",
+    "notes": "Operates in settlements",
+    "source": "UN Database of Settlement Goods",
+    "last_updated": "2026-01-23",
+    "scraped_at": "2026-01-23T20:44:00.573151"
+  }
+]

@@ -1,0 +1,6 @@
+﻿id,product,category,export_value_usd,import_value_usd,main_markets,year,source,growth_rate,scraped_at
+trade_un_comtrade_palestine_0,Olive Oil,Food,5000000,7500000,"USA,EU,Japan",2023,UN Comtrade Palestine,13.766598313674454,2026-01-23T20:44:00.569783
+trade_un_comtrade_palestine_1,Dates,Food,2000000,3000000,"EU,GCC,Canada",2023,UN Comtrade Palestine,13.436288979906632,2026-01-23T20:44:00.569797
+trade_un_comtrade_palestine_2,Textiles,Manufacturing,1500000,2500000,"EU,USA",2023,UN Comtrade Palestine,14.961809039790683,2026-01-23T20:44:00.569801
+trade_un_comtrade_palestine_3,Handicrafts,Crafts,800000,1200000,"EU,USA,Japan",2023,UN Comtrade Palestine,9.418090317098953,2026-01-23T20:44:00.569803
+trade_un_comtrade_palestine_4,Soap,Cosmetics,600000,900000,"EU,GCC",2023,UN Comtrade Palestine,11.650187318347609,2026-01-23T20:44:00.569806

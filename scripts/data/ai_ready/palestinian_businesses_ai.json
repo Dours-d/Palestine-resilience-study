@@ -1,0 +1,212 @@
+[
+  {
+    "id": "known_03952b97",
+    "name": "Canaan Fair Trade",
+    "arabic_name": "كنعان للتجارة العادلة",
+    "location": "Jenin",
+    "category": "Food",
+    "description": "Established Palestinian Food company",
+    "source": "comprehensive_database",
+    "tags": [
+      "Palestinian",
+      "Food",
+      "known_brand",
+      "comprehensive_db"
+    ]
+  },
+  {
+    "id": "known_c179e02e",
+    "name": "Zaytoun CIC",
+    "arabic_name": "زيتون",
+    "location": "UK/Palestine",
+    "category": "Food",
+    "description": "Established Palestinian Food company",
+    "source": "comprehensive_database",
+    "tags": [
+      "Palestinian",
+      "Food",
+      "known_brand",
+      "comprehensive_db"
+    ]
+  },
+  {
+    "id": "known_5eed992a",
+    "name": "Palestine Fair Trade Association",
+    "arabic_name": "جمعية التجارة العادلة الفلسطينية",
+    "location": "West Bank",
+    "category": "Food",
+    "description": "Established Palestinian Food company",
+    "source": "comprehensive_database",
+    "tags": [
+      "Palestinian",
+      "Food",
+      "known_brand",
+      "comprehensive_db"
+    ]
+  },
+  {
+    "id": "known_dc406eea",
+    "name": "Tent of Nations",
+    "arabic_name": "خيمة الأمم",
+    "location": "Bethlehem area",
+    "category": "Agriculture",
+    "description": "Established Palestinian Agriculture company",
+    "source": "comprehensive_database",
+    "tags": [
+      "Palestinian",
+      "Agriculture",
+      "known_brand",
+      "comprehensive_db"
+    ]
+  },
+  {
+    "id": "known_ecca6f7e",
+    "name": "Holy Land Handicrafts Cooperative Society",
+    "arabic_name": "جمعية الحرف اليدوية للأراضي المقدسة التعاونية",
+    "location": "Bethlehem",
+    "category": "Crafts",
+    "description": "Established Palestinian Crafts company",
+    "source": "comprehensive_database",
+    "tags": [
+      "Palestinian",
+      "Crafts",
+      "known_brand",
+      "comprehensive_db"
+    ]
+  },
+  {
+    "id": "known_b5490546",
+    "name": "Palestine Heritage Center",
+    "arabic_name": "مركز التراث الفلسطيني",
+    "location": "Bethlehem",
+    "category": "Textiles",
+    "description": "Established Palestinian Textiles company",
+    "source": "comprehensive_database",
+    "tags": [
+      "Palestinian",
+      "Textiles",
+      "known_brand",
+      "comprehensive_db"
+    ]
+  },
+  {
+    "id": "known_5f8542a1",
+    "name": "Sunbula",
+    "arabic_name": "سنبلة",
+    "location": "Jerusalem",
+    "category": "Crafts",
+    "description": "Established Palestinian Crafts company",
+    "source": "comprehensive_database",
+    "tags": [
+      "Palestinian",
+      "Crafts",
+      "known_brand",
+      "comprehensive_db"
+    ]
+  },
+  {
+    "id": "known_79458f2b",
+    "name": "Women in Hebron",
+    "arabic_name": "نساء الخليل",
+    "location": "Hebron",
+    "category": "Textiles",
+    "description": "Established Palestinian Textiles company",
+    "source": "comprehensive_database",
+    "tags": [
+      "Palestinian",
+      "Textiles",
+      "known_brand",
+      "comprehensive_db"
+    ]
+  },
+  {
+    "id": "known_958d7415",
+    "name": "Nablus Soap Factories",
+    "arabic_name": "مصانع صابون نابلس",
+    "location": "Nablus",
+    "category": "Cosmetics",
+    "description": "Established Palestinian Cosmetics company",
+    "source": "comprehensive_database",
+    "tags": [
+      "Palestinian",
+      "Cosmetics",
+      "known_brand",
+      "comprehensive_db"
+    ]
+  },
+  {
+    "id": "known_647116fd",
+    "name": "Al Shifa Natural Products",
+    "arabic_name": "الشفاء للمنتجات الطبيعية",
+    "location": "Gaza",
+    "category": "Cosmetics",
+    "description": "Established Palestinian Cosmetics company",
+    "source": "comprehensive_database",
+    "tags": [
+      "Palestinian",
+      "Cosmetics",
+      "known_brand",
+      "comprehensive_db"
+    ]
+  },
+  {
+    "id": "known_96ba313d",
+    "name": "Hebron Glass and Ceramic Factory",
+    "arabic_name": "مصنع زجاج وخزف الخليل",
+    "location": "Hebron",
+    "category": "Crafts",
+    "description": "Established Palestinian Crafts company",
+    "source": "comprehensive_database",
+    "tags": [
+      "Palestinian",
+      "Crafts",
+      "known_brand",
+      "comprehensive_db"
+    ]
+  },
+  {
+    "id": "known_75259b99",
+    "name": "Bethlehem Pottery",
+    "arabic_name": "فخار بيت لحم",
+    "location": "Bethlehem",
+    "category": "Crafts",
+    "description": "Established Palestinian Crafts company",
+    "source": "comprehensive_database",
+    "tags": [
+      "Palestinian",
+      "Crafts",
+      "known_brand",
+      "comprehensive_db"
+    ]
+  },
+  {
+    "id": "known_ccc03732",
+    "name": "Al Reef Palestinian Grocery",
+    "arabic_name": "محل الريف الفلسطيني",
+    "location": "Various",
+    "category": "Retail",
+    "description": "Established Palestinian Retail company",
+    "source": "comprehensive_database",
+    "tags": [
+      "Palestinian",
+      "Retail",
+      "known_brand",
+      "comprehensive_db"
+    ]
+  },
+  {
+    "id": "known_4586d1c9",
+    "name": "Darna Center",
+    "arabic_name": "مركز دارنا",
+    "location": "Bethlehem",
+    "category": "Crafts",
+    "description": "Established Palestinian Crafts company",
+    "source": "comprehensive_database",
+    "tags": [
+      "Palestinian",
+      "Crafts",
+      "known_brand",
+      "comprehensive_db"
+    ]
+  }
+]
