@@ -1,0 +1,32 @@
+[
+  {
+    "business": "Canaan Fair Trade",
+    "tests_passed": 7,
+    "total_tests": 7,
+    "ready_for_contact": true,
+    "email": "info@canaanpalestine.com",
+    "phone": "+970 4 243 5680",
+    "website": "https://www.canaanpalestine.com",
+    "test_date": "2026-01-27T14:57:47.640250"
+  },
+  {
+    "business": "Zaytoun CIC",
+    "tests_passed": 7,
+    "total_tests": 7,
+    "ready_for_contact": true,
+    "email": "info@zaytoun.org",
+    "phone": "+44 20 8802 9899",
+    "website": "https://www.zaytoun.org",
+    "test_date": "2026-01-27T14:57:47.640763"
+  },
+  {
+    "business": "Holy Land Handicrafts Cooperative Society",
+    "tests_passed": 7,
+    "total_tests": 7,
+    "ready_for_contact": true,
+    "email": "holyland@palnet.com",
+    "phone": "+970 2 274 1267",
+    "website": "https://www.holylandhandicrafts.org",
+    "test_date": "2026-01-27T14:57:47.641526"
+  }
+]

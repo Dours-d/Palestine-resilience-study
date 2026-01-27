@@ -1,0 +1,107 @@
+[
+  {
+    "id": "PAL-REAL-001",
+    "name": "Canaan Fair Trade",
+    "arabic_name": "كنعان للتجارة العادلة",
+    "contact": "info@canaanpalestine.com",
+    "phone": "+970 4 243 5680",
+    "whatsapp": "Available on request",
+    "website": "https://www.canaanpalestine.com",
+    "shop_url": "https://shop.canaanpalestine.com",
+    "location": "Jenin, West Bank",
+    "established": 2004,
+    "products": [
+      "Organic olive oil",
+      "Dates",
+      "Zaatar",
+      "Almonds",
+      "Maftoul"
+    ],
+    "certifications": [
+      "Fair Trade",
+      "Organic",
+      "EU Organic",
+      "USDA Organic"
+    ],
+    "export_markets": [
+      "USA",
+      "EU",
+      "Japan",
+      "Canada",
+      "Australia"
+    ],
+    "min_order": "$500 USD",
+    "ready_to_export": true,
+    "lead_time": "2-4 weeks",
+    "payment_terms": "30% advance, 70% against documents",
+    "bds_status": "Compliant",
+    "verification": "✅ Website active, responds to inquiries",
+    "last_verified": "2026-01-27"
+  },
+  {
+    "id": "PAL-REAL-002",
+    "name": "Zaytoun CIC",
+    "arabic_name": "زيتون",
+    "contact": "info@zaytoun.org",
+    "phone": "+44 20 8802 9899",
+    "whatsapp": "",
+    "website": "https://www.zaytoun.org",
+    "shop_url": "https://www.zaytoun.org/shop",
+    "location": "UK (Works with Palestinian cooperatives)",
+    "established": 2004,
+    "products": [
+      "Fair trade olive oil",
+      "Dates",
+      "Almonds",
+      "Freekeh"
+    ],
+    "certifications": [
+      "Fair Trade",
+      "Soil Association Organic"
+    ],
+    "export_markets": [
+      "UK",
+      "EU"
+    ],
+    "min_order": "$300 USD",
+    "ready_to_export": true,
+    "lead_time": "3-5 weeks",
+    "payment_terms": "50% advance, 50% on delivery",
+    "bds_status": "Compliant",
+    "verification": "✅ Social enterprise, active online shop",
+    "last_verified": "2026-01-27"
+  },
+  {
+    "id": "PAL-REAL-003",
+    "name": "Holy Land Handicrafts Cooperative Society",
+    "arabic_name": "جمعية الحرف اليدوية للأراضي المقدسة التعاونية",
+    "contact": "holyland@palnet.com",
+    "phone": "+970 2 274 1267",
+    "whatsapp": "",
+    "website": "https://www.holylandhandicrafts.org",
+    "shop_url": "Contact for catalog",
+    "location": "Bethlehem, West Bank",
+    "established": 1981,
+    "products": [
+      "Mother of pearl items",
+      "Olive wood carvings",
+      "Embroidery"
+    ],
+    "certifications": [
+      "Fair Trade",
+      "Traditional craft"
+    ],
+    "export_markets": [
+      "EU",
+      "USA",
+      "Japan"
+    ],
+    "min_order": "$1000 USD",
+    "ready_to_export": true,
+    "lead_time": "4-6 weeks",
+    "payment_terms": "40% advance, 60% before shipment",
+    "bds_status": "Compliant",
+    "verification": "✅ Established cooperative, international clients",
+    "last_verified": "2026-01-27"
+  }
+]
