@@ -1,7 +1,13 @@
 # Palestine Resilience Study
 
+## Node of Articulation: Synthesis Pillar
+This repository serves as the **Synthesis & Literature Pillar** for the [Palestine Resilience Field](https://github.com/Dours-d/Palestine-resilience-field). It bridges academic research with actionable market components.
+
 ## Project Goal
 This repository provides a reproducible data analysis framework for studying resilience in Gaza and the West Bank. It aims to synthesize public health, socio-economic, and psychological research to identify key resilience factors and inform evidence-based support strategies.
+
+## Articulation with the Field
+The Study node identifies products and services (academic, artisanal, or health-related) that are fed into the Field's `master_inventory.json` for platform deployment.
 
 ## Primary Users
 Researchers, data scientists, NGO analysts, and students interested in Palestinian studies, conflict resilience, and public health data.
