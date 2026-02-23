@@ -208,5 +208,65 @@
       "known_brand",
       "comprehensive_db"
     ]
+  },
+  {
+    "id": "known_8f12a3b4",
+    "name": "Handmade Palestine",
+    "arabic_name": "صناعة يدوية فلسطينية",
+    "location": "Ramallah / Online",
+    "category": "Crafts",
+    "description": "E-commerce platform for women's cooperatives and independent artisans",
+    "source": "market_research_2026",
+    "tags": [
+      "Palestinian",
+      "Crafts",
+      "e-commerce",
+      "women_empowerment"
+    ]
+  },
+  {
+    "id": "known_c7d8e9f0",
+    "name": "Darzah",
+    "arabic_name": "درزة",
+    "location": "West Bank / Online",
+    "category": "Textiles",
+    "description": "Non-profit ethical fashion brand specializing in Tatreez",
+    "source": "market_research_2026",
+    "tags": [
+      "Palestinian",
+      "Textiles",
+      "Tatreez",
+      "ethical_fashion"
+    ]
+  },
+  {
+    "id": "known_a1b2c3d4",
+    "name": "Hilweh Market",
+    "arabic_name": "حلوة ماركت",
+    "location": "Jaffa / Online",
+    "category": "Crafts",
+    "description": "Boutique for high-end Palestinian artisanal goods",
+    "source": "market_research_2026",
+    "tags": [
+      "Palestinian",
+      "Crafts",
+      "Artisanal",
+      "Retail"
+    ]
+  },
+  {
+    "id": "known_e5f6a7b8",
+    "name": "Palestine Global Market",
+    "arabic_name": "سوق فلسطين العالمي",
+    "location": "Online / International",
+    "category": "Food",
+    "description": "Distributor of traditional Palestinian food products",
+    "source": "market_research_2026",
+    "tags": [
+      "Palestinian",
+      "Food",
+      "Retail",
+      "Export"
+    ]
   }
 ]

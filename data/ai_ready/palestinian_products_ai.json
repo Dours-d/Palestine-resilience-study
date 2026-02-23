@@ -349,5 +349,44 @@
     "platform": "OpenSooq",
     "bds_compliant": false,
     "authenticity_score": 0.5
+  },
+  {
+    "id": "known_prod_001",
+    "title": "شال مطرز يدوياً - تطريز فلاحي",
+    "arabic_title": "شال مطرز يدوياً - تطريز فلاحي",
+    "english_title": "Hand-embroidered Pashmina (Tatreez)",
+    "price": "60.0 دينار",
+    "price_usd": 85.0,
+    "category": "textiles",
+    "location": "West Bank",
+    "platform": "Darzah",
+    "bds_compliant": true,
+    "authenticity_score": 1.0
+  },
+  {
+    "id": "known_prod_002",
+    "title": "زيت زيتون عضوي كنعان",
+    "arabic_title": "زيت زيتون عضوي كنعان",
+    "english_title": "Canaan Organic Olive Oil",
+    "price": "25.0 دينار",
+    "price_usd": 35.0,
+    "category": "food",
+    "location": "Jenin",
+    "platform": "Canaan Palestine",
+    "bds_compliant": true,
+    "authenticity_score": 1.0
+  },
+  {
+    "id": "known_prod_003",
+    "title": "سلة قش فلسطينية تقليدية",
+    "arabic_title": "سلة قش فلسطينية تقليدية",
+    "english_title": "Traditional Palestinian Straw Basket",
+    "price": "30.0 دينار",
+    "price_usd": 42.0,
+    "category": "crafts",
+    "location": "Various Villages",
+    "platform": "Handmade Palestine",
+    "bds_compliant": true,
+    "authenticity_score": 1.0
   }
 ]

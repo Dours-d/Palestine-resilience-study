@@ -1,0 +1,428 @@
+[
+    {
+        "sku": "PAL-FOOD-001",
+        "status": "active",
+        "product_info": {
+            "title": "Premium Organic Extra Virgin Olive Oil from Ancient Hebron Trees",
+            "short_description": "Cold-pressed, organic extra virgin olive oil harvested from ancient trees in the hills of Hebron.",
+            "long_description": "Experience the liquid gold of Palestine. Our Extra Virgin Olive Oil is cold-pressed from olives hand-picked from ancient trees in the fertile hills of Hebron. Rich in antioxidants and healthy fats, this oil boasts a robust, peppery flavor profile with notes of green almond and fresh herbs. Perfect for dipping, drizzling over salads, or finishing warm dishes. By purchasing this oil, you directly support Palestinian farmers maintaining their ancestral lands.",
+            "category": "Food & Beverage",
+            "subcategory": "Pantry Staples",
+            "tags": [
+                "olive oil",
+                "organic",
+                "fair trade",
+                "Hebron",
+                "Palestine",
+                "cold pressed",
+                "vegan",
+                "keto"
+            ]
+        },
+        "pricing": {
+            "cost_price_usd": 15.00,
+            "retail_price_usd": 35.00,
+            "currency": "USD",
+            "suggested_markup": "133%"
+        },
+        "inventory": {
+            "weight_kg": 1.2,
+            "dimensions_cm": {
+                "length": 8,
+                "width": 8,
+                "height": 25
+            },
+            "stock_status": "in_stock"
+        },
+        "media_requirements": {
+            "main_image": "Bottle hero shot, white background",
+            "lifestyle_images": [
+                "Oil being poured into a ceramic bowl",
+                "Bottle next to fresh bread and olives",
+                "Farmer harvesting olives in Hebron"
+            ]
+        },
+        "marketplace_strategy": {
+            "primary": [
+                "Canaan Palestine",
+                "Zaytoun"
+            ],
+            "secondary": [
+                "Amazon (Grocery)",
+                "Etsy (Specialty Food)"
+            ],
+            "target_audience": "Gourmet cooks, health-conscious consumers, supporters of fair trade"
+        }
+    },
+    {
+        "sku": "PAL-FOOD-002",
+        "status": "active",
+        "product_info": {
+            "title": "Grade A Palestinian Medjoul Dates - Jericho Harvest",
+            "short_description": "Succulent, caramel-like Medjoul dates grown in the historic city of Jericho.",
+            "long_description": "Known as the 'King of Dates', these Palestinian Medjoul dates are grown in the rich soil of Jericho, the lowest city on earth. Naturally sweet with a soft, chewy texture and notes of caramel and honey. These dates are a powerhouse of energy, fiber, and essential minerals. Sourced directly from family-owned farms committed to sustainable agriculture.",
+            "category": "Food & Beverage",
+            "subcategory": "Snacks & Dried Fruit",
+            "tags": [
+                "dates",
+                "medjoul",
+                "jericho",
+                "healthy snack",
+                "vegan",
+                "energy",
+                "natural candy"
+            ]
+        },
+        "pricing": {
+            "cost_price_usd": 10.00,
+            "retail_price_usd": 22.00,
+            "currency": "USD",
+            "suggested_markup": "120%"
+        },
+        "inventory": {
+            "weight_kg": 1.0,
+            "dimensions_cm": {
+                "length": 15,
+                "width": 10,
+                "height": 5
+            },
+            "stock_status": "seasonal"
+        },
+        "media_requirements": {
+            "main_image": "Close up of dates in a wooden box",
+            "lifestyle_images": [
+                "Opened date showing texture",
+                "Dates arranged on a platter with nuts and tea"
+            ]
+        },
+        "marketplace_strategy": {
+            "primary": [
+                "Yaffa",
+                "Zaytoun"
+            ],
+            "secondary": [
+                "Whole Foods Online",
+                "Etsy"
+            ],
+            "target_audience": "Health enthusiasts, fasting communities (Ramadan), gourmet snackers"
+        }
+    },
+    {
+        "sku": "PAL-TEXT-001",
+        "status": "active",
+        "product_info": {
+            "title": "Hand-Embroidered Bethlehem Tatreez Thobe (Dress)",
+            "short_description": "Authentic, handcrafted Thobe featuring traditional Bethlehem cross-stitch patterns.",
+            "long_description": "A masterpiece of Palestinian heritage. This traditional Thobe is hand-embroidered by women artisans in Bethlehem, featuring the iconic 'coucing' stitch unique to the region. Made from high-quality fabric, the vibrant red geometric patterns tell stories of the land and its history. Each dress takes weeks to complete, making it a unique wearable work of art. Supports women's economic empowerment.",
+            "category": "Apparel",
+            "subcategory": "Sraditional Wear",
+            "tags": [
+                "tatreez",
+                "embroidery",
+                "thobe",
+                "bethlehem",
+                "handmade",
+                "cultural heritage",
+                "dress"
+            ]
+        },
+        "pricing": {
+            "cost_price_usd": 250.00,
+            "retail_price_usd": 490.00,
+            "currency": "USD",
+            "suggested_markup": "96%"
+        },
+        "inventory": {
+            "weight_kg": 1.5,
+            "dimensions_cm": {
+                "length": 40,
+                "width": 30,
+                "height": 10
+            },
+            "stock_status": "made_to_order"
+        },
+        "media_requirements": {
+            "main_image": "Full length front view on mannequin or model",
+            "lifestyle_images": [
+                "Close up of chest embroidery details",
+                "Back view",
+                "Artisan working on the embroidery"
+            ]
+        },
+        "marketplace_strategy": {
+            "primary": [
+                "Handmade Palestine",
+                "Darzah"
+            ],
+            "secondary": [
+                "Etsy",
+                "Boutique Fashion Platforms"
+            ],
+            "target_audience": "Cultural enthusiasts, fashion collectors, diaspora community"
+        }
+    },
+    {
+        "sku": "PAL-COSM-001",
+        "status": "active",
+        "product_info": {
+            "title": "Traditional Nablus Olive Oil Soap (Al-Jamal)",
+            "short_description": "Pure, unscented olive oil soap made using the 10th-century Nabulsi tradition.",
+            "long_description": "Discover the purity of Nabulsi soap. Handcrafted in Nablus using virgin olive oil, water, and alkaline sodium compound, this soap follows a recipe unchanged for over 1,000 years. Free from synthetic fragrances, dyes, and preservatives. Gentle enough for babies and those with sensitive skin (eczema, psoriasis). It cleanses without stripping natural oils, leaving skin soft and moisturized.",
+            "category": "Beauty & Personal Care",
+            "subcategory": "Bath & Body",
+            "tags": [
+                "nablus soap",
+                "olive oil soap",
+                "castile soap",
+                "natural skincare",
+                "vegan",
+                "sensitive skin"
+            ]
+        },
+        "pricing": {
+            "cost_price_usd": 2.00,
+            "retail_price_usd": 8.50,
+            "currency": "USD",
+            "suggested_markup": "325%"
+        },
+        "inventory": {
+            "weight_kg": 0.15,
+            "dimensions_cm": {
+                "length": 6,
+                "width": 6,
+                "height": 3
+            },
+            "stock_status": "in_stock"
+        },
+        "media_requirements": {
+            "main_image": "Stack of soap cubes showing brand stamp",
+            "lifestyle_images": [
+                "Soap next to olive branch and water bowl",
+                "Individual cube unwrapped"
+            ]
+        },
+        "marketplace_strategy": {
+            "primary": [
+                "Zaytoun",
+                "Handmade Palestine"
+            ],
+            "secondary": [
+                "Amazon",
+                "Etsy",
+                "Natural Beauty Stores"
+            ],
+            "target_audience": "Zero-waste advocates, natural skincare users"
+        }
+    },
+    {
+        "sku": "PAL-CRAFT-001",
+        "status": "active",
+        "product_info": {
+            "title": "Hand-Blown Hebron Glass Swirl Lamp",
+            "short_description": "Exquisite hand-blown glass lamp featuring the signature Hebron swirl pattern.",
+            "long_description": "Illuminate your space with the colors of Hebron. This unique table lamp is hand-blown by master glassblowers using recycled glass, a tradition dating back to the Roman period. The signature 'Phoenician' swirl pattern blends vibrant blues, turquoises, and ambers. Each piece is unique. Durable, eco-friendly, and a stunning conversation starter.",
+            "category": "Home Decor",
+            "subcategory": "Lighting",
+            "tags": [
+                "hebron glass",
+                "hand blown",
+                "recycled glass",
+                "lamp",
+                "artisan",
+                "blue glass",
+                "vintage style"
+            ]
+        },
+        "pricing": {
+            "cost_price_usd": 40.00,
+            "retail_price_usd": 95.00,
+            "currency": "USD",
+            "suggested_markup": "137%"
+        },
+        "inventory": {
+            "weight_kg": 2.0,
+            "dimensions_cm": {
+                "length": 15,
+                "width": 15,
+                "height": 30
+            },
+            "stock_status": "in_stock"
+        },
+        "media_requirements": {
+            "main_image": "Lamp lit up in a dim room",
+            "lifestyle_images": [
+                "Lamp unlit on a wooden side table",
+                "Close up of the glass swirls"
+            ]
+        },
+        "marketplace_strategy": {
+            "primary": [
+                "Handmade Palestine",
+                "Hilweh Market"
+            ],
+            "secondary": [
+                "Etsy",
+                "Wayfair (Artisan Section)"
+            ],
+            "target_audience": "Interior designers, eco-conscious homeowners"
+        }
+    },
+    {
+        "sku": "PAL-FOOD-003",
+        "status": "active",
+        "product_info": {
+            "title": "Classic Palestinian Za'atar Blend",
+            "short_description": "Aromatic blend of wild thyme, roasted sesame seeds, and sumac.",
+            "long_description": "The taste of a Palestinian breakfast. Our Za'atar is a proprietary blend of wild thyme (hyssop) gathered from the hills, mixed with roasted sesame seeds, tart sumac, and a pinch of salt. Fragrant and savory. Traditionally eaten with olive oil and bread, but excellent as a seasoning for roasted chicken, vegetables, or yogurt. High in antioxidants.",
+            "category": "Food & Beverage",
+            "subcategory": "Spices & Seasonings",
+            "tags": [
+                "zaatar",
+                "spices",
+                "middle eastern food",
+                "sumac",
+                "thyme",
+                "vegan",
+                "cooking"
+            ]
+        },
+        "pricing": {
+            "cost_price_usd": 3.00,
+            "retail_price_usd": 12.00,
+            "currency": "USD",
+            "suggested_markup": "300%"
+        },
+        "inventory": {
+            "weight_kg": 0.25,
+            "dimensions_cm": {
+                "length": 5,
+                "width": 10,
+                "height": 15
+            },
+            "stock_status": "in_stock"
+        },
+        "media_requirements": {
+            "main_image": "Bowl of Za'atar next to a bowl of olive oil",
+            "lifestyle_images": [
+                "Manakish (Za'atar bread) baking",
+                "Sprinkling Za'atar on labneh"
+            ]
+        },
+        "marketplace_strategy": {
+            "primary": [
+                "Canaan Palestine",
+                "Zaytoun"
+            ],
+            "secondary": [
+                "Amazon",
+                "Specialty Spice Shops"
+            ],
+            "target_audience": "Foodies, chefs, Middle Eastern cuisine lovers"
+        }
+    },
+    {
+        "sku": "PAL-CRAFT-002",
+        "status": "active",
+        "product_info": {
+            "title": "Olive Wood Hand-Carved Nativity Set",
+            "short_description": "Minimalist nativity scene hand-carved from Holy Land olive wood trimmings.",
+            "long_description": "A piece of the Holy Land for your home. This Nativity set is hand-carved by Christian families in Bethlehem and Jerusalem uses sustainable trimmings from ancient olive trees. The wood grain is rich and swirling, making every figure unique. The smooth, faceless design offers a modern, timeless aesthetic. Perfect for Christmas or as a year-round symbol of peace.",
+            "category": "Home Decor",
+            "subcategory": "Religious Items",
+            "tags": [
+                "olive wood",
+                "nativity",
+                "christmas",
+                "bethlehem",
+                "hand carved",
+                "christian",
+                "wood art"
+            ]
+        },
+        "pricing": {
+            "cost_price_usd": 45.00,
+            "retail_price_usd": 120.00,
+            "currency": "USD",
+            "suggested_markup": "166%"
+        },
+        "inventory": {
+            "weight_kg": 0.8,
+            "dimensions_cm": {
+                "length": 20,
+                "width": 15,
+                "height": 15
+            },
+            "stock_status": "seasonal"
+        },
+        "media_requirements": {
+            "main_image": "Full set arranged on a mantelpiece",
+            "lifestyle_images": [
+                "Close up of wood grain on Joseph figure",
+                "Packaging shot demonstrating gift readiness"
+            ]
+        },
+        "marketplace_strategy": {
+            "primary": [
+                "Holy Land Web Stores",
+                "Etsy"
+            ],
+            "secondary": [
+                "Christian Bookstores",
+                "Amazon Handmade"
+            ],
+            "target_audience": "Christian community, gift shoppers, wood art collectors"
+        }
+    },
+    {
+        "sku": "PAL-CRAFT-003",
+        "status": "active",
+        "product_info": {
+            "title": "Ceramic Hand-Painted Serving Bowl - Floral",
+            "short_description": "Vibrant, food-safe serving bowl hand-painted with traditional Palestinian floral motifs.",
+            "long_description": "Bring joy to your table. This large serving bowl is crafted in Hebron, famous for its ceramics. Hand-painted with intricate floral arabesques in cobalt blues, greens, and reds. Glazed and fired for durability. Food safe, microwave safe. Ideal for serving salads, pasta, or as a fruit bowl center piece.",
+            "category": "Home & Kitchen",
+            "subcategory": "Serveware",
+            "tags": [
+                "palestinian pottery",
+                "ceramics",
+                "hand painted",
+                "hebron",
+                "serving bowl",
+                "floral",
+                "kitchenware"
+            ]
+        },
+        "pricing": {
+            "cost_price_usd": 18.00,
+            "retail_price_usd": 55.00,
+            "currency": "USD",
+            "suggested_markup": "205%"
+        },
+        "inventory": {
+            "weight_kg": 0.9,
+            "dimensions_cm": {
+                "length": 25,
+                "width": 25,
+                "height": 8
+            },
+            "stock_status": "in_stock"
+        },
+        "media_requirements": {
+            "main_image": "Top-down view of empty bowl to show pattern",
+            "lifestyle_images": [
+                "Bowl filled with fresh salad",
+                "Side view showing depth"
+            ]
+        },
+        "marketplace_strategy": {
+            "primary": [
+                "Handmade Palestine",
+                "Etsy"
+            ],
+            "secondary": [
+                "Fair Trade Home Goods Stores"
+            ],
+            "target_audience": "Home entertainers, art lovers"
+        }
+    }
+]
